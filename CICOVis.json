@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    { "name": "0 Cash In 1" },
+    { "name": "1 Cash In 2" },
+    { "name": "2 Cash In 3" },
+    { "name": "3 Cash Out 1" },
+    { "name": "4 Cash Out 2" },
+    { "name": "5 Cash Out 3" },
+    { "name": "6 Cash Out 4" },
+    { "name": "7 Customer 1" },
+    { "name": "8 Customer 2" },
+    { "name": "9 Customer 3" },
+    { "name": "10 Customer 4" },
+    { "name": "11 Customer 5" },
+    { "name": "12 Customer 6" }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1240.72
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 500.97
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 500.97
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "value": 500.97
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 3500.0
+    },
+    {
+      "source": 11,
+      "target": 3,
+      "value": 9000.00
+    }    
+  ]
+}
